@@ -1,5 +1,5 @@
 #!/bin/bash
-STUDENT_NAME="Prakhar"
+STUDENT_NAME="Paishal"
 SOFTWARE_CHOICE="Git" # Fill in your chosen software
 # --- System info ---
 KERNEL=$(uname -r)
